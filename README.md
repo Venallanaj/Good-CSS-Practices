@@ -10,6 +10,6 @@ Modular, Re-usable, Responsive, Scalable, Less loading time
 -Organize the file structure intuitively// make a good structure for your project files html, css, js separate files that lets you to finde what ever you want quickly.
 -Think of the best layout design.// There are different type of the design strategis that you can use
 
-_Float Layout_
-_Flexbox Layout_
-_Grid Layout_
+_Float Layout_ // Are method to build layout web page used by float left right and clear fix
+_Flexbox Layout_ // Are very modern approches coding
+_Grid Layout_ // Are more modern layout that call css grid
