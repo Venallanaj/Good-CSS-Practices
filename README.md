@@ -14,7 +14,7 @@ _Float Layout_ // Are method to build layout web page used by float left right a
 _Flexbox Layout_ // Are very modern approches coding
 _Grid Layout_ // Are more modern layout that call css
 
-# How to plan out your CSs
+# How to plan out your CSS
 
 7-1 Pattern
 ![alt text](https://i.postimg.cc/rFb3NCNm/Plan-css.png)
